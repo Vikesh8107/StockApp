@@ -104,6 +104,8 @@ Check out some snapshots and a video of our app:
     <img src="/OutPut/Image4.jpeg" alt="Stock Image 4" width="200"/>
 </div>
 
+![Watch the Video Preview](/OutPut/VideoPreview.gif)
+
 
 
 
