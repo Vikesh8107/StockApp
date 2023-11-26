@@ -97,9 +97,9 @@ Update stock prices at specified refresh intervals with random values. These upd
 
 Check out some snapshots of our app:
 
-![Stock Image 1](/images/stock_image_1.png)
-![Stock Image 2](/images/stock_image_2.png)
-![Stock Image 3](/images/stock_image_3.png)
+![Stock Image 1](/OutPut/Image1.jpeg)
+![Stock Image 2](/OutPut/Image2.jpeg)
+![Stock Image 3](/OutPut/Image3.jpeg)
 
 ## Acknowledgments
 
