@@ -97,21 +97,26 @@ Update stock prices at specified refresh intervals with random values. These upd
 
 Check out some snapshots and a video of our app:
 
-<div style="display: flex; gap: 300px;">
+<div style="display: flex; gap: 10px; align-items: center;">
     <img src="/OutPut/Image1.jpeg" alt="Stock Image 1" width="200"/>
     <img src="/OutPut/Image2.jpeg" alt="Stock Image 2" width="200"/>
     <img src="/OutPut/Image3.jpeg" alt="Stock Image 3" width="200"/>
     <img src="/OutPut/Image4.jpeg" alt="Stock Image 4" width="200"/>
-    <center><img src="/OutPut/VideoPreview.gif" alt="Watch the Video Preview" width="200" style="margin-left: 90px; margin-right: 20px;"></center>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/OutPut/VideoPreview.gif" alt="Watch the Video Preview" width="200" style="margin-left: 20px; margin-right: 20px;">
+        <p style="margin: 0;">Watch the Video</p>
+    </div>
 </div>
 
 [![Watch the Video](https://img.shields.io/badge/Watch%20the%20Video-Click%20Here-orange)](/OutPut/Video.mp4)
 
 
 
+
 ## Acknowledgments
 
-Special thanks to the Polygon API for providing real-time stock data.
+Special thanks to the [Polygon API](https://polygon.io) for providing real-time stock data.
+
 
 ## License
 
