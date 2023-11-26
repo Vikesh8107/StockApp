@@ -20,7 +20,7 @@ StockApp is a React Native mobile application designed to fetch stock data from 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/StockApp.git
+   git clone https://github.com/Vikesh8107/StockApp.git
    cd StockApp
    ```
 
