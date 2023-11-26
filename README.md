@@ -93,13 +93,23 @@ Fetch previous close prices for the stocks and store them in a file.
 
 Update stock prices at specified refresh intervals with random values. These updates are made from the same file where the prices are stored.
 
-## Display Output Images
+## Display Output Images and Video
 
-Check out some snapshots of our app:
+Check out some snapshots and a video of our app:
 
-![Stock Image 1](/OutPut/Image1.jpeg)
-![Stock Image 2](/OutPut/Image2.jpeg)
-![Stock Image 3](/OutPut/Image3.jpeg)
+<div style="display: flex; gap: 300px;">
+    <img src="/OutPut/Image1.jpeg" alt="Stock Image 1" width="200"/>
+    <img src="/OutPut/Image2.jpeg" alt="Stock Image 2" width="200"/>
+    <img src="/OutPut/Image3.jpeg" alt="Stock Image 3" width="200"/>
+    <img src="/OutPut/Image4.jpeg" alt="Stock Image 4" width="200"/>
+</div>
+
+
+
+
+[![Watch the Video](https://img.shields.io/badge/Watch%20the%20Video-Click%20Here-orange)](/OutPut/Video.mp4)
+
+
 
 ## Acknowledgments
 
