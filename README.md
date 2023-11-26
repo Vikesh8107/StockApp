@@ -102,12 +102,8 @@ Check out some snapshots and a video of our app:
     <img src="/OutPut/Image2.jpeg" alt="Stock Image 2" width="200"/>
     <img src="/OutPut/Image3.jpeg" alt="Stock Image 3" width="200"/>
     <img src="/OutPut/Image4.jpeg" alt="Stock Image 4" width="200"/>
+    <center><img src="/OutPut/VideoPreview.gif" alt="Watch the Video Preview" width="200" style="margin-left: 90px; margin-right: 20px;"></center>
 </div>
-
-![Watch the Video Preview](/OutPut/VideoPreview.gif)
-
-
-
 
 [![Watch the Video](https://img.shields.io/badge/Watch%20the%20Video-Click%20Here-orange)](/OutPut/Video.mp4)
 
